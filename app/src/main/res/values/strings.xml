@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Assignment1 Application</string>
+    <string-array name="users">
+        <item>loremPersonam684</item>
+        <item>regularGuy42</item>
+        <item>ipsumDolor32</item>
+
+    </string-array>
+    <string-array name="tweet_array">
+        <item>Trump won Hurray!</item>
+        <item>This is a great day!</item>
+        <item>lorem ipsum dolor sit ament</item>
+
+        <item>I made the best brownie today</item>
+
+        <item>What a sad day for us all</item>
+        <item>This too shall pass my brethren</item>
+
+
+    </string-array>
+
+    <string-array name= "comments">
+        <item>Kanye was right</item>
+        <item>You are just the worst!</item>
+        <item>MAGAAAA</item>
+        <item>You just don\'t like your country</item>
+        <item>You are just the worst!</item>
+        <item>Yeah, I too burned my brownies....</item>
+        <item>Good for you lad! May I have the precipice?</item>
+        <item>You are just the worst!</item>
+        <item>I can\'t believe all you can think of is brownies in such a terrible day!</item>
+        <item>You just don\'t like your country</item>
+        <item>You are just the worst!</item>
+        <item>MAGAAAA</item>
+    </string-array>
+</resources>
